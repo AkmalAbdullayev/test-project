@@ -11,7 +11,7 @@ use Illuminate\Contracts\View\View;
 use Illuminate\Foundation\Application;
 use Illuminate\Http\RedirectResponse;
 
-class TestController extends Controller
+class PostsController extends Controller
 {
     /**
      * Display a listing of the resource.
